@@ -1,16 +1,18 @@
 # advance_flutter_ch3
 
-A new Flutter project.
+<h3 align = "center"> No Internet </h3>
+</div>
+<div> 
+   <img src = "https://github.com/user-attachments/assets/69c7789e-b4ba-412d-a90e-3e8c351c278c"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/36cbd46a-111c-4329-aa15-89ffef146af4"  height=35% width=22%  />
+   
+ <div align = "center">
+  <video height="450" src="https://github.com/user-attachments/assets/394051dc-b4fb-4876-b44f-1d63f0a87fb6" />
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
