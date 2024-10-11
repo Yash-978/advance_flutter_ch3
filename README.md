@@ -1,16 +1,40 @@
 # advance_flutter_ch3
 
-A new Flutter project.
+# 📶 No Internet App
 
-## Getting Started
+A simple and fun Flutter app that displays a **Dino GIF** when the device is not connected to the internet. This lightweight app replaces the usual boring "No Connection" message with a playful dinosaur animation to keep users entertained during downtime.
 
-This project is a starting point for a Flutter application.
+## ✨ Features:
+- **Dino GIF Animation**: A cute dinosaur animation displayed when the internet connection is lost.
 
-A few resources to get you started if this is your first Flutter project:
+- **Responsive UI**: Fast and smooth performance for an enjoyable user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With:
+- **Flutter**: Cross-platform framework used for developing the app.
+- **connectivity_plus**: To detect network connectivity changes and trigger the "No Internet" mode automatically.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Use:
+
+4. Turn off your internet connection and enjoy the Dino GIF!
+
+
+
+
+
+✨ Features:
+Dino GIF Animation: A cute dinosaur animation displayed when the internet connection is lost.
+
+<div> 
+   <img src = "https://github.com/user-attachments/assets/69c7789e-b4ba-412d-a90e-3e8c351c278c"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/36cbd46a-111c-4329-aa15-89ffef146af4"  height=35% width=22%  />
+   
+ <div align = "center">
+  <video height="450" src="https://github.com/user-attachments/assets/394051dc-b4fb-4876-b44f-1d63f0a87fb6" />
+
+</div>
+
+
+
+
+
+
